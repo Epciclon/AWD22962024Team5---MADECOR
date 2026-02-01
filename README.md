@@ -7,7 +7,7 @@ Advanced Web Development course of Universidad de las Fuerzas Armadas ESPE
 - Projects
 - Other documents
 
-Author:
+Author: Darwin Panchez, Jose Proaño
 Intructor: Edison Lascano
 
 # Project Title
